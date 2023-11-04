@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Neutron145
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in С/C++
 
 <!---
 Neutron145/Neutron145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
